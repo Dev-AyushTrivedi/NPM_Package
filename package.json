@@ -1,0 +1,26 @@
+{
+  "name": "convert-my-currency",
+  "version": "1.0.0",
+  "description": "The Currency Converter is a lightweight npm package designed to simplify currency conversions. It allows developers to effortlessly convert between different currencies using exchange rates provided during initialization.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dev-AyushTrivedi/NPM_Package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ayush Trivedi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dev-AyushTrivedi/NPM_Package/issues"
+  },
+  "homepage": "https://github.com/Dev-AyushTrivedi/NPM_Package#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
